@@ -6,4 +6,8 @@
 # <h6>This is smallest header</h6>
 ![CAT](https://octodex.github.com/images/yaktocat.png))
 
+
+``` javascript
 var myVar = "Hello, world!";
+```
+
